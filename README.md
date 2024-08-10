@@ -1,12 +1,4 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=connectsoumyaroy&color=blue&style=flat-square" alt="Profile Views" width="100" />
-</p>
 
-<p align="center">
-  <img src="https://github.com/connectsroy/connectsroy/blob/main/download%20(3).jpg" alt="Thumbnail Image" width="80%">
-</p>
-
-<hr>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Shaking Hands GIF">
@@ -38,7 +30,7 @@ I am a creative 🎡, punctual 👩‍🎓, dedicated 🎯, and goal-oriented in
 
 Hello! I’m **Shreshtha Doharey** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, a data enthusiast with a unique blend of experience in supply chain management and a passion for data analysis. Transitioning into the world of data, I bring a strategic mindset and problem-solving skills to every project.
 
-Currently pursuing an MS in Data Science, I’m immersing myself in advanced data analysis and machine learning techniques. My goal is to transform complex datasets into actionable insights that drive impactful business decisions.
+Currently pursuing ACP in Data Science, I’m immersing myself in advanced data analysis and machine learning techniques. My goal is to transform complex datasets into actionable insights that drive impactful business decisions.
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif" alt="GIF 1" width="500">
